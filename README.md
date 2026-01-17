@@ -78,6 +78,6 @@ Each generated draft is reviewed by a human before sending to ensure:
 - Brand tone  
 - Correct booking details
 
----
 
-## 📂 Repository Structure
+
+
